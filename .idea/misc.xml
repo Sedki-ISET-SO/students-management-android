@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/GestionsEtud/app/src/main/res/layout/activity_connecter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/GestionsEtud/app/src/main/res/layout/activity_contact.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/GestionsEtud/app/src/main/res/layout/activity_inscription.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/GestionsEtud/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/GestionsEtud/app/src/main/res/layout/inscr_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/omar chouikh/AndroidStudioProjects/GestionsEtud/app/src/main/res/layout/activity_connecter.xml" value="0.23324275362318841" />
+        <entry key="..\:/Users/omar chouikh/AndroidStudioProjects/GestionsEtud/app/src/main/res/layout/activity_efface.xml" value="0.1421875" />
+        <entry key="..\:/Users/omar chouikh/AndroidStudioProjects/GestionsEtud/app/src/main/res/layout/activity_effacer.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/omar chouikh/AndroidStudioProjects/GestionsEtud/app/src/main/res/layout/activity_inscription.xml" value="0.1609375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
